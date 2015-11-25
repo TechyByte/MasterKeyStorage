@@ -1,5 +1,5 @@
 #!/bin/env python3.3
-# Software backend of Secure Storage of KECHB Master Key
+# Software backend of Secure Storage of certain Master Keys
 # By George Hynes, TechyByte
 # Copyright (C) George Hynes and TechyByte 2015. All rights reserved.
 
