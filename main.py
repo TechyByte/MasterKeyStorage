@@ -6,7 +6,7 @@
 # NOTE: Currently works on Python 3.4 with pycrypto installed and pyotp
 #                       or Python 3.3 with pycrypto, pyotp installed and hashlib (latest version forced)
 
-#import pyotp
+import pyotp
 import hashlib
 from time import sleep
 from os import urandom, path
