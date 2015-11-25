@@ -97,14 +97,14 @@ def openKey():
     locked = False
     sleep(1)
 
-    # TODO: Unlock key here
+    # TODO: Physically unlock key here!
 
     sleep(1)
     print("Scan a token or press # key to lock system")
     input("> ")
     sleep(1)
 
-    # TODO: lock key here
+    # TODO: Physically lock key here!
 
     sleep(1)
     locked - True
